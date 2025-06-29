@@ -43,18 +43,6 @@
 
 ---
 
-## 🎯 Controls
-
-| Key | Action      |
-|-----|-------------|
-| `W` | Move Up     |
-| `A` | Move Left   |
-| `S` | Move Down   |
-| `D` | Move Right  |
-| `X` | Exit Game   |
-
----
-
 ## 🛠️ How to Run
 
 ### 🔧 Requirements
@@ -85,11 +73,13 @@ This code uses arrays, loops, and conditionals, making it a perfect starting poi
 
 ---
 
-## 🧩 File Structure
+## 📁 SnakeGame Project Structure
 
+```bash
 📁 SnakeGame/
-┣ 📄 snakegame.cpp # Main source code
-┗ 📄 README.md # Project documentation
+ ┣ 📄 snakegame.cpp     # Main source code
+ ┗ 📄 README.md         # Project documentation
+```
 
 > 🗂️ This minimal structure keeps your project organized and beginner-friendly — easy to navigate and maintain.
 
@@ -110,9 +100,6 @@ This code uses arrays, loops, and conditionals, making it a perfect starting poi
 Hi, I'm **Kuldeep Soni** —  
 A passionate **Full-Stack Developer** from 🇮🇳 **India** who enjoys building:
 
-- 🕹️ Interactive Games  
-- 🤖 AI-powered Tools  
-- 🌐 Scalable Web Applications  
 
 📫 **Email:** [kuldeepsoni.dev@gmail.com](mailto:kuldeepsoni.dev@gmail.com)  
 🌐 **Portfolio:** [github.com/justkuldeep](https://github.com/justkuldeep)
